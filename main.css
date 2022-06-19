@@ -1,0 +1,31 @@
+  #content{
+            display: flex;
+            flex-direction: row;
+            width: 36rem;
+            margin: auto
+        }
+        .card{
+            margin: 1rem 0px;
+            width:8rem
+        }
+        .first{
+            background-color: rgb(224, 120, 46);
+            padding: 2rem;
+        }
+        .second{
+            background-color: rgba(7, 117, 150, 0.986);
+            padding: 2rem;
+        }
+        .third{
+            background-color: rgba(4, 50, 65, 0.986);
+            padding: 2rem;
+        }
+        .card h1,p{
+            color: rgb(250, 251, 252);
+        }
+        button{
+            border: 1px solid white;
+            background-color: white;
+            padding: .6rem;
+            border-radius: 26px;
+        }
